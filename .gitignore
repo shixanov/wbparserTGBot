@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# data
+storage/
+user_data/
+*.json
+
+# trash python
+__pycache__/
+*.pyc
+.venv/
+
+# settings
+.idea/
+.vscode/
